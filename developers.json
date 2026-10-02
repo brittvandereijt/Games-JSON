@@ -8,27 +8,20 @@
   },
   {
     "id": 2,
-    "name": "Ubisoft Montreal",
+    "name": "Ubisoft",
     "country": "Canada",
     "founded": 1997,
     "website": "https://www.ubisoft.com"
   },
   {
     "id": 3,
-    "name": "Ubisoft Quebec",
-    "country": "Canada",
-    "founded": 2005,
-    "website": "https://www.ubisoft.com"
-  },
-  {
-    "id": 4,
     "name": "Naughty Dog",
     "country": "United States",
     "founded": 1984,
     "website": "https://www.naughtydog.com"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Rockstar Games",
     "country": "United States",
     "founded": 1998,
