@@ -67,7 +67,7 @@
     "multiplayer": false,
     "completed": false,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/ACOdysseyCover.png",
-    "developerId": 3
+    "developerId": 2
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
     "multiplayer": false,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/TheLastOfUs.jpg",
-    "developerId": 4
+    "developerId": 3
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
     "multiplayer": false,
     "completed": false,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/TtheLastOfUs2.jpeg",
-    "developerId": 4
+    "developerId": 3
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
     "multiplayer": false,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/UnchartedDrakesFortune.jpg",
-    "developerId": 4
+    "developerId": 3
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
     "multiplayer": true,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/UnchartedAThiefsEnd.jpg",
-    "developerId": 4
+    "developerId": 3
   },
   {
     "id": 10,
@@ -137,7 +137,7 @@
     "multiplayer": true,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/GrandTheftAutoV.png",
-    "developerId": 5
+    "developerId": 4
   },
   {
     "id": 11,
@@ -151,7 +151,7 @@
     "multiplayer": true,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/RedDeadRedemption.jpeg",
-    "developerId": 5
+    "developerId": 4
   },
   {
     "id": 12,
@@ -165,6 +165,6 @@
     "multiplayer": true,
     "completed": false,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/RedDeadRedemption2.jpeg",
-    "developerId": 5
+    "developerId": 4
   }
 ]
