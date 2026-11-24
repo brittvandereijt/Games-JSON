@@ -11,7 +11,13 @@
     "multiplayer": false,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/HorizonZeroDawn.jpeg",
-    "developerId": 1
+    "developer": {
+      "id": 1,
+      "name": "Guerrilla Games",
+      "country": "Netherlands",
+      "founded": 2000,
+      "website": "https://www.guerrilla-games.com"
+    }
   },
   {
     "id": 2,
@@ -25,7 +31,13 @@
     "multiplayer": false,
     "completed": false,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/HorizonForbiddenWest.jpg",
-    "developerId": 1
+    "developer": {
+      "id": 1,
+      "name": "Guerrilla Games",
+      "country": "Netherlands",
+      "founded": 2000,
+      "website": "https://www.guerrilla-games.com"
+    }
   },
   {
     "id": 3,
@@ -39,7 +51,13 @@
     "multiplayer": false,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/AssassinsCreed2.jpeg",
-    "developerId": 2
+    "developer": {
+      "id": 2,
+      "name": "Ubisoft",
+      "country": "Canada",
+      "founded": 1997,
+      "website": "https://www.ubisoft.com"
+      }
   },
   {
     "id": 4,
@@ -53,7 +71,13 @@
     "multiplayer": true,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/AssassinsCreedBlackFlag.jpeg",
-    "developerId": 2
+    "developer": {
+      "id": 2,
+      "name": "Ubisoft",
+      "country": "Canada",
+      "founded": 1997,
+      "website": "https://www.ubisoft.com"
+      }
   },
   {
     "id": 5,
@@ -67,7 +91,13 @@
     "multiplayer": false,
     "completed": false,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/ACOdysseyCover.png",
-    "developerId": 2
+    "developer": {
+      "id": 2,
+      "name": "Ubisoft",
+      "country": "Canada",
+      "founded": 1997,
+      "website": "https://www.ubisoft.com"
+      }
   },
   {
     "id": 6,
@@ -81,7 +111,13 @@
     "multiplayer": false,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/TheLastOfUs.jpg",
-    "developerId": 3
+    "developer": {
+      "id": 3,
+      "name": "Naughty Dog",
+      "country": "United States",
+      "founded": 1984,
+      "website": "https://www.naughtydog.com" 
+    }
   },
   {
     "id": 7,
@@ -95,7 +131,13 @@
     "multiplayer": false,
     "completed": false,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/TtheLastOfUs2.jpeg",
-    "developerId": 3
+    "developer": {
+      "id": 3,
+      "name": "Naughty Dog",
+      "country": "United States",
+      "founded": 1984,
+      "website": "https://www.naughtydog.com" 
+    }
   },
   {
     "id": 8,
@@ -109,7 +151,13 @@
     "multiplayer": false,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/UnchartedDrakesFortune.jpg",
-    "developerId": 3
+    "developer": {
+      "id": 3,
+      "name": "Naughty Dog",
+      "country": "United States",
+      "founded": 1984,
+      "website": "https://www.naughtydog.com" 
+    }
   },
   {
     "id": 9,
@@ -123,7 +171,13 @@
     "multiplayer": true,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/UnchartedAThiefsEnd.jpg",
-    "developerId": 3
+    "developer": {
+      "id": 3,
+      "name": "Naughty Dog",
+      "country": "United States",
+      "founded": 1984,
+      "website": "https://www.naughtydog.com" 
+    }
   },
   {
     "id": 10,
@@ -137,7 +191,13 @@
     "multiplayer": true,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/GrandTheftAutoV.png",
-    "developerId": 4
+    "developer": {
+      "id": 4,
+      "name": "Rockstar Games",
+      "country": "United States",
+      "founded": 1998,
+      "website": "https://www.rockstargames.com"
+    }
   },
   {
     "id": 11,
@@ -151,7 +211,13 @@
     "multiplayer": true,
     "completed": true,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/RedDeadRedemption.jpeg",
-    "developerId": 4
+    "developer": {
+      "id": 4,
+      "name": "Rockstar Games",
+      "country": "United States",
+      "founded": 1998,
+      "website": "https://www.rockstargames.com"
+    }
   },
   {
     "id": 12,
@@ -165,6 +231,12 @@
     "multiplayer": true,
     "completed": false,
     "image": "https://raw.githubusercontent.com/brittvandereijt/Games-JSON/main/Images/RedDeadRedemption2.jpeg",
-    "developerId": 4
+    "developer": {
+      "id": 4,
+      "name": "Rockstar Games",
+      "country": "United States",
+      "founded": 1998,
+      "website": "https://www.rockstargames.com"
+    }
   }
 ]
